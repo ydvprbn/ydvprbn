@@ -2,7 +2,7 @@ Hi there 👋, Welcome!
 <h1 align="center">Hi 👋, I'm Prabin Yadav</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🔭 I’m currently working on E-commerce web app.
+- 🔭 I’m currently working on Online Voting System.
 - 🌱 I’m currently learning Django framework.
 - 📫 How to reach me: Twitter, Linkedin
 - 😄 Pronouns: He/His
